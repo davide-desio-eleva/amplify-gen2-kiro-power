@@ -77,6 +77,18 @@ Before using this power, ensure you have:
 
 The power will be installed and ready to use in your Kiro workspace.
 
+## 📟 Screensthots
+
+### After Installation
+Once the power is installed, Kiro will show you a confirmation and overview of what the power provides:
+
+![After Install](pic/after-install.png)
+
+### Power Usage Guide
+When you ask Kiro for help with Amplify Gen 2, it will propose the available workflows and guide you through the process:
+
+![How to Use](pic/how-to.png)
+
 ## 🚀 Quick Start
 
 1. **Configure AWS credentials**:
