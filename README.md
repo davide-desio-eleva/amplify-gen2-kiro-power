@@ -1,6 +1,6 @@
-# 👻 AWS Amplify Gen 2 Kiro Power
+# <img src="pic/logo/kiro.png" alt="Kiro" width="20" height="20"> AWS Amplify Gen 2 Kiro Power <img src="pic/logo/amplify.png" alt="Kiro" width="20" height="20">
 
-A comprehensive Kiro power for building full-stack applications with AWS Amplify Gen 2, featuring pre-built Agent SOPs (Standard Operating Procedures) for backend implementation, frontend integration, and deployment workflows.
+A comprehensive **Kiro power** for building full-stack applications with AWS **Amplify Gen 2**, featuring pre-built Agent **SOPs (Standard Operating Procedures)** for backend implementation, frontend integration, and deployment workflows.
 
 ## 📋 Overview
 
@@ -82,12 +82,12 @@ The power will be installed and ready to use in your Kiro workspace.
 ### After Installation
 Once the power is installed, Kiro will show you a confirmation and overview of what the power provides:
 
-![After Install](pic/after-install.png)
+![After Install](pic/screen/after-install.png)
 
 ### Power Usage Guide
 When you ask Kiro for help with Amplify Gen 2, it will propose the available workflows and guide you through the process:
 
-![How to Use](pic/how-to.png)
+![How to Use](pic/screen/how-to.png)
 
 ## 🚀 Quick Start
 
